@@ -1,4 +1,3 @@
-// write your code here!
 
 var width = 600;
 var height = 600;
