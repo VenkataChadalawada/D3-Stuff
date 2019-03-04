@@ -8,4 +8,4 @@
 #### Literacy Rate Vs Cellular Subscriptions
 ##### Data File ->
 ##### Result Scatter Plot Data Visualization using D3
-![alt text]()
+![alt text](https://github.com/VenkataChadalawada/D3-Stuff/blob/master/BirthsPerCountry-D3/ScatterPlotResult2_D3.png)
