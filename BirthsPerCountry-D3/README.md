@@ -1,4 +1,3 @@
 # Data on Births By Country for 2011
 
-## X -> Births Per Capita
-## Y -> Life Expectancy
+#### Births Per Capita vs Life Expectancy
