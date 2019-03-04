@@ -6,6 +6,6 @@
 ![alt text](https://github.com/VenkataChadalawada/D3-Stuff/blob/master/BirthsPerCountry-D3/ScatterPlotD3_Result.png)
 
 #### Literacy Rate Vs Cellular Subscriptions
-##### Data File ->
+##### Data File -> https://github.com/VenkataChadalawada/D3-Stuff/blob/master/BirthsPerCountry-D3/regionData.js
 ##### Result Scatter Plot Data Visualization using D3
 ![alt text](https://github.com/VenkataChadalawada/D3-Stuff/blob/master/BirthsPerCountry-D3/ScatterPlotResult2_D3.png)
